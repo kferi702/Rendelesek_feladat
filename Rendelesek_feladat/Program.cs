@@ -10,6 +10,7 @@ namespace Rendelesek_feladat
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
